@@ -163,7 +163,9 @@ header {
 
     .dsmeta-sales-table tbody {
         font-size: 18px;
+    }
 }
+
 
 @media(min-width: 992px) {
     .show-992{
